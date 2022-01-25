@@ -1,0 +1,172 @@
+body,html {margin:0px;
+    height: 100%;}
+
+body {background-color:#ead7c7;
+}
+
+img{
+    width: 100%;
+    height:100%;
+    size: cover;
+}
+
+#logo a {font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 2em;
+    text-decoration:none;
+    color:#157575;
+    font-weight: 700;}
+
+
+#menu {
+    background-color:#ead7c7;
+    width: 100%;
+    text-align: center;
+    padding: 1%;
+    
+}
+
+#menu ul li {
+    display: inline;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    color:#157575;  
+    margin: 5%;
+}
+
+#menu li a {
+    color:#157575;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    font-weight:700;
+}
+
+p { 
+    width:30%;
+    margin: 5%;
+    height:100%;
+    line-height: 170%;
+    font-family: 'Cormorant Garamond', serif;
+    color:#157575; 
+}
+
+h2{
+    width:30%;
+    margin: 5%;
+    text-align:center;
+    color:#157575; 
+}
+
+
+.abstract{
+    width:40%;
+    margin: 2%;
+    height:100%;
+    float:left;
+}
+
+.abstract h3{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align:center;
+    color:#157575;     
+}
+
+.abstract p {
+    font-family: 'Cormorant Garamond', serif;
+    margin:0 auto;
+    color:#157575; 
+    padding: 10%;
+}
+
+.recipe{
+    height: 100%;
+}
+
+.clear{
+    clear:both;
+}
+
+.button a{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    color:#157575;  
+    margin: 5%;
+    border: solid;
+    border-color:#157575;
+    border-radius: 5%; 
+    text-decoration:none;
+    padding: 5%;
+}
+
+.button a:hover {
+    font-weight:700;
+}
+
+#contacts {
+    width:100%;
+    height:100%;
+}
+
+.contact {
+    width:30%;
+    margin: 5%;
+}
+
+.contact a {
+        font-family: 'Cormorant Garamond', serif;
+         text-decoration:none;
+         color:#157575; 
+         
+     }
+     
+ .contact a:hover {
+        font-weight:700;
+     }
+     
+.contact h3{
+            font-family: 'Montserrat', sans-serif;
+            text-transform: uppercase;
+            
+            color:#157575;    
+        
+     }
+
+     .contact p {
+        font-family: 'Cormorant Garamond', serif;
+         color:#157575; 
+     }
+
+    
+.recipeimg {
+    width:40%;
+    margin: 2%;
+    height:100%;
+    float:left;
+}
+
+.first{
+    width:40%;
+    margin: 2%;
+    height:100%;
+    float:left;
+}
+
+.steps{
+    width:30%;
+    margin: 5%;
+    text-align:center;
+}
+
+h4{
+    width:30%;
+    margin: 5%;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align:center;
+    color:#157575;     
+}
