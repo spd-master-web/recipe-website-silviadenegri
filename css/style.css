@@ -49,12 +49,15 @@ p {
     margin: 5%;
     height:100%;
     line-height: 170%;
+    font-family: 'Cormorant Garamond', serif;
+    color:#157575; 
 }
 
 h2{
     width:30%;
     margin: 5%;
     text-align:center;
+    color:#157575; 
 }
 
 
@@ -137,3 +140,32 @@ h2{
         font-family: 'Cormorant Garamond', serif;
          color:#157575; 
      }
+
+    
+.recipeimg {
+    width:40%;
+    margin: 2%;
+    height:100%;
+    float:left;
+}
+
+.first{
+    width:40%;
+    margin: 2%;
+    height:100%;
+    float:left;
+}
+
+.steps{
+    width:30%;
+    margin: 5%;
+    text-align:center;
+}
+
+.steps h4{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align:center;
+    color:#157575;     
+}
+
